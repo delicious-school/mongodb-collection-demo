@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-collection-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delicious-school/mongodb-collection-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delicious-school/mongodb-collection-demo/issues"
+  },
+  "homepage": "https://github.com/delicious-school/mongodb-collection-demo#readme",
+  "dependencies": {
+    "mongoose": "^4.5.8"
+  }
+}
