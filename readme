@@ -1,0 +1,42 @@
+this is a project to show how to collect mongodb:
+save data
+```
+node save.js
+```
+then go mongodb database mongoosedb-demo to check out data
+ ```
+ use mongoosedb-demo
+ show collections
+ db.users.find()
+ ```
+find data
+```
+node find.js
+```
+then go mongodb database mongoosedb-demo to check out data
+ ```
+ use mongoosedb-demo
+ show collections
+ db.users.find()
+ ```
+update data
+```
+node update.js
+```
+then go mongodb database mongoosedb-demo to check out data
+ ```
+ use mongoosedb-demo
+ show collections
+ db.users.find()
+ ```
+delete data
+```
+node remove.js
+```
+then go mongodb database mongoosedb-demo to check out data
+ ```
+ use mongoosedb-demo
+ show collections
+ db.users.find()
+ ```
+
